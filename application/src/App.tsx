@@ -1,5 +1,4 @@
 import React, { ChangeEvent, useState } from 'react';
-import './App.css';
 
 type Task = {
   title: string;
